@@ -11,6 +11,7 @@
   "dependencies": {
     "@shinnn/eslint-config-node": "^4.0.2",
     "@shinnn/eslintrc-node": "^1.0.2",
+    "axios": "^0.13.1",
     "request": "^2.82.0",
     "yargs": "^4.8.1"
   },
