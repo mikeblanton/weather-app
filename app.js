@@ -5,5 +5,5 @@ request({
   json: true
 },
 (error, response, body) => {
-  console.log('Body:', body);
+  console.log(JSON.stringify(body, undefined, 2));
 });
