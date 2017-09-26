@@ -11,7 +11,8 @@
   "dependencies": {
     "@shinnn/eslint-config-node": "^4.0.2",
     "@shinnn/eslintrc-node": "^1.0.2",
-    "request": "^2.82.0"
+    "request": "^2.82.0",
+    "yargs": "^4.8.1"
   },
   "devDependencies": {
     "babel-eslint": "^8.0.0",
@@ -24,5 +25,7 @@
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^3.0.1"
   },
-  "engines" : { "node" : ">=8.5.0" }
+  "engines": {
+    "node": ">=8.5.0"
+  }
 }
